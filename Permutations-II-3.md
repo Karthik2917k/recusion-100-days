@@ -38,3 +38,6 @@ var permuteUnique = function(nums) {
     return result;
 };
 ```
+
+![permutation](https://user-images.githubusercontent.com/96117746/220411181-57d5ad3d-6639-48c3-86d7-19c0f1f00359.png)
+
