@@ -7,3 +7,4 @@
 4. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Subsets-4.md">Subsets</a> 21-02-2023
 5. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/subsets-%7C%7C.md">Subsets-II</a> 22-02-2023
 6. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/mergeSortedArray.md">Merge sorted Array</a> 23-02-2023
+7. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Generate-Parentheses.md">Generate Parentheses</a> 24-02-2023
