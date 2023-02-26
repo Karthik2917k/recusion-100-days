@@ -8,3 +8,5 @@
 5. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/subsets-%7C%7C.md">Subsets-II</a> 22-02-2023
 6. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/mergeSortedArray.md">Merge sorted Array</a> 23-02-2023
 7. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Generate-Parentheses.md">Generate Parentheses</a> 24-02-2023
+8. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/LetterCombinationsofaPhoneNumber.md">Letter Combinations of a Phone Number</a> 25-02-2023
+9. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Word-Search.md">Word Search</a> 26-02-2023
