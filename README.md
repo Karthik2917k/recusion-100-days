@@ -13,4 +13,5 @@
 10. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/LargestNumber.md">Largest Number</a> 27-02-2023
 11. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Sum-of-Digits-of-String-After-Convert.md">Sum of Digits of String After Convert</a> 28-02-2023
 12. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Sudoku-Solver.md">Sudoku Solver</a> 01-03-2023
-13. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Group-Anagrams.md">Group Anagrams</a> 01-03-2023
+13. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Group-Anagrams.md">Group Anagrams</a> 02-03-2023
+14. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/QuickSort.md">Quick Sort</a> 03-03-2023
