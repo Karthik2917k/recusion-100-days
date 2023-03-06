@@ -17,3 +17,4 @@
 14. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/QuickSort.md">Quick Sort</a> 03-03-2023
 15. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Minimum-Moves-to-Equal-Array-Elements-II.md">Minimum Moves to Equal Array Elements II</a> 05-03-2023
 16. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/RemoveNthNodeFromEndofList.md">Remove Nth Node From End of List</a> 05-03-2023
+17. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Merge-Two-Sorted-list.md">Merge Two Sorted Lists</a> 06-03-2023
