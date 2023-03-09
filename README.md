@@ -19,3 +19,5 @@
 16. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/RemoveNthNodeFromEndofList.md">Remove Nth Node From End of List</a> 05-03-2023
 17. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Merge-Two-Sorted-list.md">Merge Two Sorted Lists</a> 06-03-2023
 18. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Nqueens.md">N Queens</a> 07-03-2023
+19. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/LetterCase-Permutation.md">Letter Case Permutation</a> 08-03-2023
+20. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Target-sum.md">Target Sum</a> 09-03-2023
