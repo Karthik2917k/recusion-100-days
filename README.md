@@ -21,3 +21,4 @@
 18. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Nqueens.md">N Queens</a> 07-03-2023
 19. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/LetterCase-Permutation.md">Letter Case Permutation</a> 08-03-2023
 20. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Target-sum.md">Target Sum</a> 09-03-2023
+21. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Find%20Duplicates-in-an-Array.md"> Find All Duplicates in an Array</a> 10-03-2023
