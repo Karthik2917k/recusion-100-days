@@ -22,3 +22,5 @@
 19. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/LetterCase-Permutation.md">Letter Case Permutation</a> 08-03-2023
 20. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Target-sum.md">Target Sum</a> 09-03-2023
 21. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Find%20Duplicates-in-an-Array.md"> Find All Duplicates in an Array</a> 10-03-2023
+22. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Best-Time-to-Buy-and-Sell-Stock.md">Best Time to Buy and Sell Stock LeetCode</a> 11-03-2023
+23. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ImplementStackusingQueues.md">Implement Stack using Queue</a> 12-03-2023
