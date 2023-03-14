@@ -25,3 +25,4 @@
 22. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/Best-Time-to-Buy-and-Sell-Stock.md">Best Time to Buy and Sell Stock LeetCode</a> 11-03-2023
 23. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ImplementStackusingQueues.md">Implement Stack using Queue</a> 12-03-2023
 24. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/EvaluateReversePolishNotation.md">Evaluate Reverse Polish Notation</a> 13-03-2023
+25. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/SimplifyPath.md">Simplfy Path</a> 14-03-2023
