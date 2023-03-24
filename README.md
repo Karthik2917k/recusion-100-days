@@ -31,5 +31,6 @@
 28. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/CoinChange.md">Coin Change</a> 17-03-2023
 29. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/SortThePeople.md">Sort The People</a> 18-03-2023
 30. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/HappyNumber.md">Happy Number</a> 19-03-2023
-30. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/SortThePeople.md">Sort The People</a> 20-03-2023
-30. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/MissingNumber.md">Missing Number</a> 22-03-2023
+31. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/SortThePeople.md">Sort The People</a> 20-03-2023
+32. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/MissingNumber.md">Missing Number</a> 22-03-2023
+32. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/MonotonicArray.md">Monotonic Array</a> 24-03-2023
