@@ -39,3 +39,4 @@
 35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ZigzagConversion.md">Zigzag Conversion</a> 03-04-2023
 35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ContainerWithMostWater.md">Container With Most Water</a> 04-04-2023
 35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/FindFirstandLastPositionofElementinSortedArray.md">Find First and Last Position of Element in Sorted Array</a> 05-04-2023
+36. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/UglyNumber-II.md">Ugly Number-II</a> 06-04-2023
