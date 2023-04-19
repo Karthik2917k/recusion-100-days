@@ -36,7 +36,8 @@
 33. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/MonotonicArray.md">Monotonic Array</a> 24-03-2023
 34. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/CombinationSum-%7C%7C%7C.md">Combination Sum-|||</a> 29-03-2023
 35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/RemoveDuplicatesfromSortedList.md">Remove Duplicates from Sorted List</a> 02-04-2023
-35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ZigzagConversion.md">Zigzag Conversion</a> 03-04-2023
-35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ContainerWithMostWater.md">Container With Most Water</a> 04-04-2023
-35. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/FindFirstandLastPositionofElementinSortedArray.md">Find First and Last Position of Element in Sorted Array</a> 05-04-2023
-36. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/UglyNumber-II.md">Ugly Number-II</a> 06-04-2023
+36. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ZigzagConversion.md">Zigzag Conversion</a> 03-04-2023
+37. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/ContainerWithMostWater.md">Container With Most Water</a> 04-04-2023
+38. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/FindFirstandLastPositionofElementinSortedArray.md">Find First and Last Position of Element in Sorted Array</a> 05-04-2023
+39. <a href="https://github.com/Karthik2917k/recusion-100-days/blob/master/UglyNumber-II.md">Ugly Number-II</a> 06-04-2023
+40 . <a htrf="https://github.com/Karthik2917k/recusion-100-days/blob/master/SpiralMatrix.md">Spiral Matrix</a>
